@@ -1,0 +1,12 @@
+main {
+    background-color: rgb(255, 255, 255);
+}
+
+.div-exibe{
+    display: flex;
+    justify-content: space-around;
+}
+ .imgg {
+    width: 90%;
+ }
+
